@@ -73,7 +73,6 @@ describe('Live testing', function() {
         name: 'experiences',
         exclude:
           [
-            '.hero-tagline',
             '#dp-stock-value',
             '.office-map',
             '.hero-img',
@@ -81,6 +80,7 @@ describe('Live testing', function() {
           ],
         remove:
           [
+            '.hero-tagline',
             '.intro',
             '.hero-body',
             '.b-title',
