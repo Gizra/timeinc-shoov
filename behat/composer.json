@@ -1,0 +1,10 @@
+{
+  "name": "Behat tests for http://www.timeinc.com",
+  "description": "Functional testing for http://www.timeinc.com site.",
+  "require": {
+    "drupal/drupal-extension": "~3.0"
+  },
+  "config": {
+    "bin-dir": "bin/"
+  }
+}
